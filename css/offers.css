@@ -1,3 +1,7 @@
+.offers {
+  margin-bottom: 104px;
+}
+
 .offers-cards {
   display: flex;
   flex-direction: column;
@@ -26,7 +30,7 @@
 .offers-cards .card header h3 {
   margin: 8px 0 0;
   font-size: 40px;
-  font-weight: var(--tittle-weight);
+  font-weight: var(--title-weight);
 }
 
 .offers-cards .card header span {
@@ -70,7 +74,7 @@
   }
   .offers-cards .card header h3 {
     font-size: 48px;
-    font-weight: var(--tittle-weight);
+    font-weight: var(--title-weight);
   }
 
   .offers-cards .card header span {
